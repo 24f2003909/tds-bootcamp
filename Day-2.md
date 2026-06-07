@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-2 ---
-I already knew Modern App Development, System Commands.
+I already knew Modern Application Development, System Commands.
 --- 
 
 ## Day-2 Checklist
